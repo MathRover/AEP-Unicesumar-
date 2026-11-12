@@ -2,7 +2,13 @@
 
 **UniCesumar · Engenharia de Software · 4º semestre**  
 **Sistemas Operacionais · AEP 2026.2 · Segunda entrega**  
-**Integrantes** Matheus Rover (RA 25032408-2), Maria Eduarda Bueno (RA: )  
+**Integrantes** 
+<br>
+Maria Eduarda Bueno de Azevedo RA: 25177957-2, 
+<br>
+Matheus Rover da Silva RA: 25032458-2,
+<br>
+Samuel de Oliveira Campos RA: 25235501-2
 **Londrina · 2026**
 
 ## Resumo
